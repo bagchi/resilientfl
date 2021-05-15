@@ -1,0 +1,26 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    justify-content: left;
+}
+
+h1, h3, h4 {
+    font-family: 'Arvo', serif;
+}
+
+header {
+    background: #2193b0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2193b0, #6dd5ed); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding-top: 1px;
+}
+
+.top-header {
+    margin: 75px;
+    color: white;
+}
+
+.not-header {
+    margin: 75px;
+}
